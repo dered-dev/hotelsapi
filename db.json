@@ -1,260 +1,164 @@
 {
-    "hotels": [
-  {
-    label: "City Express Monterrey Universidad",
-    value: "City Express Monterrey Universidad - ",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEMTS"
-  },
-  {
-    label: "City Express Lagos de Moreno",
-    value: "City Express Lagos de Moreno - lagos de moreno, jalisco",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CELDM"
-  },
-  {
-    label: "City Express Caborca",
-    value: "City Express Caborca - Caborca, sonora",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CECAB"
-  },
-  {
-    label: "City Express Plus San Luis Potos\u00ed",
-    value:
-      "City Express Plus San Luis Potos\u00ed - San Luis, san luis potosi, san luis",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPSLP"
-  },
-  {
-    label: "City Express Plus Mexicali",
-    value: "City Express Plus Mexicali - baja california, mexicali",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPMXL"
-  },
-  {
-    label: "City Express Plus Guadalajara Providencia",
-    value: "City Express Plus Guadalajara Providencia - jalisco, guadalajara",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPGDL"
-  },
-  {
-    label: "City Express Guaymas",
-    value: "City Express Guaymas - guaymas, sonora",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEGYM"
-  },
-  {
-    label: "City Express Hermosillo Expo",
-    value: "City Express Hermosillo Expo - hermosillo, sonora",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEHME"
-  },
-  {
-    label: "City Centro San Luis Potos\u00ed",
-    value: "City Centro San Luis Potos\u00ed - san luis, san luis potosi",
-    tipo: "hotel",
-    marca: "CC",
-    codigo: "CCSLP"
-  },
-  {
-    label: "City Express Plus Chihuahua",
-    value: "City Express Plus Chihuahua - chihuahua",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPCUU"
-  },
-  {
-    label: "City Express Tapachula",
-    value: "City Express Tapachula - Tapachula, Chiapas",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CETAP"
-  },
-  {
-    label: "City Express CDMX Tlalpan",
-    value:
-      "City Express CDMX Tlalpan - tlalpan, viaducto, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CETLA"
-  },
-  {
-    label: "City Express Plus Ensenada",
-    value: "City Express Plus Ensenada - Ensenada, Baja california",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPESE"
-  },
-  {
-    label: "City Express Ensenada",
-    value: "City Express Ensenada - Ensenada, Baja california",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEESE"
-  },
-  {
-    label: "City Express Plus Tijuana",
-    value: "City Express Plus Tijuana - tijuana, baja california",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPTIJ"
-  },
-  {
-    label: "City Express CDMX La Villa",
-    value:
-      "City Express CDMX La Villa - la villa, gustavo a madero, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEVIL"
-  },
-  {
-    label: "City Express Junior CDMX Sullivan",
-    value:
-      "City Express Junior CDMX Sullivan - sullivan, cuauhtemoc, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
-    tipo: "hotel",
-    marca: "CJ",
-    codigo: "CJSUL"
-  },
-  {
-    label: "City Express Plus Tampico",
-    value: "City Express Plus Tampico - tampico, tamaulipas",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPTAM"
-  },
-  {
-    label: "City Express Suites Canc\u00fan Aeropuerto Riviera",
-    value:
-      "City Express Suites Canc\u00fan Aeropuerto Riviera - cancun, quintana roo",
-    tipo: "hotel",
-    marca: "CS",
-    codigo: "CSCHC"
-  },
-  {
-    label: "City Express Plus Canc\u00fan Aeropuerto Riviera",
-    value:
-      "City Express Plus Canc\u00fan Aeropuerto Riviera - cancun, quintana roo",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPCHC"
-  },
-  {
-    label: "City Express Plus Interlomas",
-    value:
-      "City Express Plus Interlomas - interlomas, estado de mexico, huixquilucan",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPINT"
-  },
-  {
-    label: "City Express Plus M\u00e9rida",
-    value: "City Express Plus M\u00e9rida - merida, yucatan",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPMID"
-  },
-  {
-    label: "City Express Tlalnepantla",
-    value:
-      "City Express Tlalnepantla - Gustavo Baz, Tlalnepantla, Estado de Mexico, Edo de Mexico, Edo Mexico",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEBAZ"
-  },
-  {
-    label: "City Express Comit\u00e1n",
-    value: "City Express Comit\u00e1n - comitan, chiapas",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CECJT"
-  },
-  {
-    label: "City Express Tepic",
-    value: "City Express Tepic - tepic, nayarit",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CETPQ"
-  },
-  {
-    label: "City Centro Oaxaca",
-    value: "City Centro Oaxaca - Oaxaca",
-    tipo: "hotel",
-    marca: "CC",
-    codigo: "CCOAX"
-  },
-  {
-    label: "City Express Monterrey Lindavista",
-    value: "City Express Monterrey Lindavista - Monterrey, Nuevo",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEMTL"
-  },
-  {
-    label: "City Express Plus Le\u00f3n Centro de Convenciones",
-    value:
-      "City Express Plus Le\u00f3n Centro de Convenciones - leon, guanajuato",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPLEO"
-  },
-  {
-    label: "City Express Junior Le\u00f3n Centro de Convenciones",
-    value:
-      "City Express Junior Le\u00f3n Centro de Convenciones - leon, guanajuato",
-    tipo: "hotel",
-    marca: "CJ",
-    codigo: "CJLEO"
-  },
-  {
-    label: "City Express Tijuana Otay",
-    value: "City Express Tijuana Otay - tijuana, baja california, tijuana otay",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CETIO"
-  },
-  {
-    label: "City Express Plus Medell\u00edn Colombia",
-    value: "City Express Plus Medell\u00edn Colombia - Medell\u00edn, Colombia",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPMED"
-  },
-  {
-    label: "City Express Junior Tuxtepec",
-    value: "City Express Junior Tuxtepec - Tuxtepec, Oaxaca",
-    tipo: "hotel",
-    marca: "CJ",
-    codigo: "CJTUX"
-  },
-  {
-    label: "City Express Tampico Altamira",
-    value: "City Express Tampico Altamira - tamaulipas, altamira, tampico",
-    tipo: "hotel",
-    marca: "CE",
-    codigo: "CEALT"
-  },
-  {
-    label: "City Express Plus Puerto Vallarta",
-    value:
-      "City Express Plus Puerto Vallarta - Puerto Vallarta, jalisco, guadalajara",
-    tipo: "hotel",
-    marca: "CP",
-    codigo: "CPPVT"
-  },
-  {
-    label: "City Express Junior Puebla Angel\u00f3polis",
-    value: "City Express Junior Puebla Angel\u00f3polis - Puebla",
-    tipo: "hotel",
-    marca: "CJ",
-    codigo: "CJPAN"
-  }
-]
+    "hotels": [{
+            "label": "City Express Monterrey Universidad",
+            "value": "City Express Monterrey Universidad - ",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEMTS"
+        },
+        {
+            "label": "City Express Lagos de Moreno",
+            "value": "City Express Lagos de Moreno - lagos de moreno, jalisco",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CELDM"
+        },
+        {
+            "label": "City Express Caborca",
+            "value": "City Express Caborca - Caborca, sonora",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CECAB"
+        },
+        {
+            "label": "City Express Plus San Luis Potos\u00ed",
+            "value": "City Express Plus San Luis Potos\u00ed - San Luis, san luis potosi, san luis",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPSLP"
+        },
+        {
+            "label": "City Express Plus Mexicali",
+            "value": "City Express Plus Mexicali - baja california, mexicali",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPMXL"
+        },
+        {
+            "label": "City Express Plus Guadalajara Providencia",
+            "value": "City Express Plus Guadalajara Providencia - jalisco, guadalajara",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPGDL"
+        },
+        {
+            "label": "City Express Guaymas",
+            "value": "City Express Guaymas - guaymas, sonora",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEGYM"
+        },
+        {
+            "label": "City Express Hermosillo Expo",
+            "value": "City Express Hermosillo Expo - hermosillo, sonora",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEHME"
+        },
+        {
+            "label": "City Centro San Luis Potos\u00ed",
+            "value": "City Centro San Luis Potos\u00ed - san luis, san luis potosi",
+            "tipo": "hotel",
+            "marca": "CC",
+            "codigo": "CCSLP"
+        },
+        {
+            "label": "City Express Plus Chihuahua",
+            "value": "City Express Plus Chihuahua - chihuahua",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPCUU"
+        },
+        {
+            "label": "City Express Tapachula",
+            "value": "City Express Tapachula - Tapachula, Chiapas",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CETAP"
+        },
+        {
+            "label": "City Express CDMX Tlalpan",
+            "value": "City Express CDMX Tlalpan - tlalpan, viaducto, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CETLA"
+        },
+        {
+            "label": "City Express Plus Ensenada",
+            "value": "City Express Plus Ensenada - Ensenada, Baja california",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPESE"
+        },
+        {
+            "label": "City Express Ensenada",
+            "value": "City Express Ensenada - Ensenada, Baja california",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEESE"
+        },
+        {
+            "label": "City Express Plus Tijuana",
+            "value": "City Express Plus Tijuana - tijuana, baja california",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPTIJ"
+        },
+        {
+            "label": "City Express CDMX La Villa",
+            "value": "City Express CDMX La Villa - la villa, gustavo a madero, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEVIL"
+        },
+        {
+            "label": "City Express Junior CDMX Sullivan",
+            "value": "City Express Junior CDMX Sullivan - sullivan, cuauhtemoc, mexico df, df, distrito federal, ciudad de mexico, cdmx, mexico city",
+            "tipo": "hotel",
+            "marca": "CJ",
+            "codigo": "CJSUL"
+        },
+        {
+            "label": "City Express Plus Tampico",
+            "value": "City Express Plus Tampico - tampico, tamaulipas",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPTAM"
+        },
+        {
+            "label": "City Express Suites Canc\u00fan Aeropuerto Riviera",
+            "value": "City Express Suites Canc\u00fan Aeropuerto Riviera - cancun, quintana roo",
+            "tipo": "hotel",
+            "marca": "CS",
+            "codigo": "CSCHC"
+        },
+        {
+            "label": "City Express Plus Canc\u00fan Aeropuerto Riviera",
+            "value": "City Express Plus Canc\u00fan Aeropuerto Riviera - cancun, quintana roo",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPCHC"
+        },
+        {
+            "label": "City Express Plus Interlomas",
+            "value": "City Express Plus Interlomas - interlomas, estado de mexico, huixquilucan",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPINT"
+        },
+        {
+            "label": "City Express Plus M\u00e9rida",
+            "value": "City Express Plus M\u00e9rida - merida, yucatan",
+            "tipo": "hotel",
+            "marca": "CP",
+            "codigo": "CPMID"
+        },
+        {
+            "label": "City Express Tlalnepantla",
+            "value": "City Express Tlalnepantla - Gustavo Baz, Tlalnepantla, Estado de Mexico, Edo de Mexico, Edo Mexico",
+            "tipo": "hotel",
+            "marca": "CE",
+            "codigo": "CEBAZ"
+        }
+    ]
 }
