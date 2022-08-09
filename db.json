@@ -1,4 +1,5 @@
-[
+{
+    "hotels": [
   {
     label: "City Express Monterrey Universidad",
     value: "City Express Monterrey Universidad - ",
@@ -256,3 +257,4 @@
     codigo: "CJPAN"
   }
 ]
+}
