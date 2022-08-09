@@ -160,5 +160,119 @@
             "marca": "CE",
             "codigo": "CEBAZ"
         }
-    ]
+    ],
+    "destinations": [
+    {
+        "label": "LAGOS DE MORENO",
+        "value": "lagos de moreno",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "JALISCO",
+        "value": "jalisco",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "CABORCA",
+        "value": "caborca",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "SONORA",
+        "value": "sonora",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "SAN LUIS",
+        "value": "san luis",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "SAN LUIS POTOSI",
+        "value": "san luis potosi",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "BAJA CALIFORNIA",
+        "value": "baja california",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "MEXICALI",
+        "value": "mexicali",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "GUADALAJARA",
+        "value": "guadalajara",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "GUAYMAS",
+        "value": "guaymas",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "HERMOSILLO",
+        "value": "hermosillo",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "CHIHUAHUA",
+        "value": "chihuahua",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "TAPACHULA",
+        "value": "tapachula",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "CHIAPAS",
+        "value": "chiapas",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "TLALPAN",
+        "value": "tlalpan",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    },
+    {
+        "label": "VIADUCTO",
+        "value": "viaducto",
+        "tipo": "destino",
+        "marca": "",
+        "CODIGO": ""
+    }
+]
 }
