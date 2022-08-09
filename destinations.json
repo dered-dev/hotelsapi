@@ -1,0 +1,826 @@
+ [
+    {
+    label: "LAGOS DE MORENO",
+    value: "lagos de moreno",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "JALISCO",
+    value: "jalisco",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CABORCA",
+    value: "caborca",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "SONORA", value: "sonora", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "SAN LUIS",
+    value: "san luis",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SAN LUIS POTOSI",
+    value: "san luis potosi",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "BAJA CALIFORNIA",
+    value: "baja california",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MEXICALI",
+    value: "mexicali",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "GUADALAJARA",
+    value: "guadalajara",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "GUAYMAS",
+    value: "guaymas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "HERMOSILLO",
+    value: "hermosillo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CHIHUAHUA",
+    value: "chihuahua",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TAPACHULA",
+    value: "tapachula",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CHIAPAS",
+    value: "chiapas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TLALPAN",
+    value: "tlalpan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "VIADUCTO",
+    value: "viaducto",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MEXICO DF",
+    value: "mexico df",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "DF", value: "df", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "DISTRITO FEDERAL",
+    value: "distrito federal",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CIUDAD DE MEXICO",
+    value: "ciudad de mexico",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "CDMX", value: "cdmx", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "MEXICO CITY",
+    value: "mexico city",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "ENSENADA",
+    value: "ensenada",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TIJUANA",
+    value: "tijuana",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "LA VILLA",
+    value: "la villa",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "GUSTAVO A MADERO",
+    value: "gustavo a madero",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SULLIVAN",
+    value: "sullivan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CUAUHTEMOC",
+    value: "cuauhtemoc",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TAMPICO",
+    value: "tampico",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TAMAULIPAS",
+    value: "tamaulipas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "CANCUN", value: "cancun", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "QUINTANA ROO",
+    value: "quintana roo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "INTERLOMAS",
+    value: "interlomas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "ESTADO DE MEXICO",
+    value: "estado de mexico",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "HUIXQUILUCAN",
+    value: "huixquilucan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "MERIDA", value: "merida", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "YUCATAN",
+    value: "yucatan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "GUSTAVO BAZ",
+    value: "gustavo baz",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TLALNEPANTLA",
+    value: "tlalnepantla",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "EDO DE MEXICO",
+    value: "edo de mexico",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "EDO MEXICO",
+    value: "edo mexico",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "COMITAN",
+    value: "comitan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "TEPIC", value: "tepic", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "NAYARIT",
+    value: "nayarit",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "OAXACA", value: "oaxaca", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "MONTERREY",
+    value: "monterrey",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "NUEVO", value: "nuevo", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "LEON", value: "leon", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "GUANAJUATO",
+    value: "guanajuato",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TIJUANA OTAY",
+    value: "tijuana otay",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MEDELL\u00edN",
+    value: "medell\u00edn",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "COLOMBIA",
+    value: "colombia",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TUXTEPEC",
+    value: "tuxtepec",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "ALTAMIRA",
+    value: "altamira",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "PUERTO VALLARTA",
+    value: "puerto vallarta",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "PUEBLA", value: "puebla", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "CELAYA", value: "celaya", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "CENTRO", value: "centro", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "ZOCALO", value: "zocalo", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "TLALNEPANTLA DE BAZ",
+    value: "tlalnepantla de baz",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "LA RAZA",
+    value: "la raza",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "RAZA", value: "raza", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "BOGOTA", value: "bogota", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "ROSARITO",
+    value: "rosarito",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "BAJA CALIFORNIA SUR",
+    value: "baja california sur",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "TOLUCA", value: "toluca", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "TIJUANA RIO",
+    value: "tijuana rio",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "REYNOSA",
+    value: "reynosa",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "AEROPUERTO",
+    value: "aeropuerto",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SANTIAGO",
+    value: "santiago",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "CHILE", value: "chile", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "ALAMEDA",
+    value: "alameda",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CIUDAD JUAREZ",
+    value: "ciudad juarez",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "VERACRUZ",
+    value: "veracruz",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "BOCA DEL RIO",
+    value: "boca del rio",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "QUERETARO",
+    value: "queretaro",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "ZACATECAS",
+    value: "zacatecas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "INSURGENTES",
+    value: "insurgentes",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TEPOTZOTLAN",
+    value: "tepotzotlan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MATAMOROS",
+    value: "matamoros",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SALAMANCA",
+    value: "salamanca",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MAZATLAN",
+    value: "mazatlan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SINALOA",
+    value: "sinaloa",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "VILLAHERMOSA",
+    value: "villahermosa",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TABASCO",
+    value: "tabasco",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MORELIA",
+    value: "morelia",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MICHOACAN",
+    value: "michoacan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "CABO", value: "cabo", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "CABO SAN LUCAS",
+    value: "cabo san lucas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "LOS CABOS",
+    value: "los cabos",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "SILAO", value: "silao", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "TUXPAN", value: "tuxpan", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "LAZARO CARDENAS",
+    value: "lazaro cardenas",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "PIEDRAS NEGRAS",
+    value: "piedras negras",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "COAHUILA",
+    value: "coahuila",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "EL ANGEL",
+    value: "el angel",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "NUEVO LEON",
+    value: "nuevo leon",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "PLAYA DEL CARMEN",
+    value: "playa del carmen",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "TULA", value: "tula", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "HIDALGO",
+    value: "hidalgo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "LOS MOCHIS",
+    value: "los mochis",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "AGUASCALIENTES",
+    value: "aguascalientes",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SALTILLO",
+    value: "saltillo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "NOGALES",
+    value: "nogales",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MINATITLAN",
+    value: "minatitlan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TORREON",
+    value: "torreon",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CULIACAN",
+    value: "culiacan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TUXTLA GUTIERREZ",
+    value: "tuxtla gutierrez",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "MANZANILLO",
+    value: "manzanillo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "COLIMA", value: "colima", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "CIUDAD DEL CARMEN",
+    value: "ciudad del carmen",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CAMPECHE",
+    value: "campeche",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CIUDAD OBREGON",
+    value: "ciudad obregon",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "DURANGO",
+    value: "durango",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SAN JOSE",
+    value: "san jose",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "COSTA RICA",
+    value: "costa rica",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "XALAPA", value: "xalapa", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "JALAPA", value: "jalapa", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "SANTA CATARINA",
+    value: "santa catarina",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CHETUMAL",
+    value: "chetumal",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SANTA FE",
+    value: "santa fe",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "ANZURES",
+    value: "anzures",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "POLANCO",
+    value: "polanco",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SALINA CRUZ",
+    value: "salina cruz",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "NUEVO LAREDO",
+    value: "nuevo laredo",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CANANEA",
+    value: "cananea",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "UNIVERSIDAD",
+    value: "universidad",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "IRAPUATO",
+    value: "irapuato",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  { label: "CALI", value: "cali", tipo: "destino", marca: "", CODIGO: "" },
+  { label: "LA PAZ", value: "la paz", tipo: "destino", marca: "", CODIGO: "" },
+  {
+    label: "TEHUACAN",
+    value: "tehuacan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "PARAISO",
+    value: "paraiso",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CENTRAL DE ABASTO",
+    value: "central de abasto",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "REFORMA",
+    value: "reforma",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "APIZACO",
+    value: "apizaco",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "TLAXCALA",
+    value: "tlaxcala",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CIUDAD VICTORIA",
+    value: "ciudad victoria",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "CD VICTORIA",
+    value: "cd victoria",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "SATELITE",
+    value: "satelite",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  },
+  {
+    label: "NAUCALPAN",
+    value: "naucalpan",
+    tipo: "destino",
+    marca: "",
+    CODIGO: ""
+  }
+]
